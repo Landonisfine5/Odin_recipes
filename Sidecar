@@ -1,1 +1,26 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+   
+    <title>Sidecar</title>
+</head>
+<body>
+    <h1>Sidecar Recipe </h1>
+    <h4>Needs:</h4>
+    <ul>
+        <li>Cognac
+            <li>Lemon Juice
+                <li>Curacao
+                </ul>
+    <h4>Process:</h4>
+    <ol>
+        <li>2 oz Cognac
+            <li>3/4 oz lemon Juice
+                <li>3/4 Curacao
+                    <li>Shake and strain into coupe
+                    </ol>
+                    <p><strong><em>ENJOY</em></strong></p>
+                    <img src="Sidecar.jpg" alt="Picture of a Sidecar">
+</body>
+</html>
