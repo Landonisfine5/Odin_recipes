@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
+    <title>Manhattan</title>
+</head>
+<body>
+    <h1>Manhattan Recipe</h1>
+    <h4>Needs:</h4>
+    <ul>
+        <li>Rye
+            <li>sweet vermouth
+                <li>bitters
+                </ul>
+                <h4>Process:</h4>
+                <ol>
+                    <li>2 Oz Rye Whiskey
+                        <li>1 oz Swt vermouth
+                            <li>2 dashes of bitters
+                                <li> stir and serve
+                                </ol>
+                                <p><h4>Enjoy</h4><p>
+                                    <img src="manhattan.jpg" alt="A picture of a manhattan">
+</body>
+</html>
